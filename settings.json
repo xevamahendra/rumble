@@ -13,7 +13,7 @@
     },
     "Target": {
         "Profit (amt)": "0",
-        "Profit (%)": "0.3",
+        "Profit (%)": "100",
         "Balance": "0",
         "Lose": "0"
     },
@@ -330,7 +330,7 @@
                     "Name": "Rumble 1",
                     "Status": "ON",
                     "Lemper Mode": "False",
-                    "Base": "0.8",
+                    "Base": "2",
                     "Balance Divider": {
                         "Status": "OFF",
                         "Divider": "1000000",
@@ -364,7 +364,7 @@
                     "Name": "Rumble 2",
                     "Status": "ON",
                     "Lemper Mode": "False",
-                    "Base": "0.61",
+                    "Base": "1.5",
                     "Balance Divider": {
                         "Status": "OFF",
                         "Divider": "1000000",
